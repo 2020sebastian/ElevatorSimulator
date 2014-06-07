@@ -1,0 +1,14 @@
+1,16,4,8,500,500,15,15,1, 
+
+
+//The numbers above represent the following:
+(In order)
+
+1. Duration of the simulation
+2. Number of Floors
+3. Number of Elevators
+4. Maximum elevator Capacity
+5. Door time delay
+6. Floor time delay
+7. Number of generated people / minute
+8. Elevator time out value

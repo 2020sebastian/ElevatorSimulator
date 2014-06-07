@@ -1,0 +1,2 @@
+Project Overview
+The quarter programming project is to design and implement an object-oriented elevator simulator. This simulator application will model a building, its floors, its elevators, its call boxes, controllers, its people, etc. in order to perform a variety of analyses that will help determine the optimal elevator configuration for a given building. Additionally this application can predict the expected effect of taking an elevator down for repairs on the building’s population.     
